@@ -5,7 +5,7 @@ The Music Playlist System is a dynamic and user-friendly application designed fo
 ## OBJECTIVE 
 The objective of our music playlist system DSA (Data Structures and Algorithms) project is to design and implement an efficient and user-friendly platform that allows users to create, manage, and enjoy personalized music playlists. This project aims to employ various data structures and algorithms to optimize playlist creation, search, and recommendation functions, providing a seamless and responsive user experience. By prioritizing algorithmic efficiency and robust data structures, we intend to deliver a feature-rich music playlist system that enhances music discovery and organization for users while serving as a practical and educational demonstration of DSA principles.
 
-## 3.1 Requirement Analysis
+## REQUIREMENT ANALYSIS
 
 From the given scenario, we draw the following requirements:
 
@@ -21,7 +21,7 @@ Ensure that user inputs are properly validated to prevent invalid operations (e.
 ### Performance and Scalability:
 Ensure that the system performs efficiently for typical operations even with large playlists. • Use appropriate algorithms to perform operations on playlists and songs efficiently.
 
-## 3.2 Hardware Requirement
+## Hardware Requirement
 
 Processor: Dual-core or higher processor.
 
